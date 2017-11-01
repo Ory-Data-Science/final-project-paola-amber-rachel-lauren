@@ -1,0 +1,7 @@
+The 2015 Plan selections by County in the Health Insurance Marketplaces' purpose is to analyze individuals based on numerous factors that 
+determine their eligibility and enrollment in a health care plan. This to reduce the number of individuals in the United States that 
+are uninsured. The data population we chose to specifically analyze is based on age group per State and County. We would like to compare
+the 2010 census data to this data set in order to evaluate whether all individuals within that population were accounted for. 
+By using R studio we expect to visualize the data to show that certain age groups will have a higher coverage rate than others. Through 
+the census, the coverage is expected to be proportional to the population. There may also be certain counties which are also expected 
+to have low coverage rates. 
