@@ -1,0 +1,6 @@
+#Graphing commands 
+
+Made new csv with age ranges and the sums that we found from filtering the data
+
+> sums <- read.csv("sums of age ranges.csv")
+> ggplot(data = sums, aes(x = Age.group, y = total)) + geom_point() + labs(x = "Age Range", y= "Number of People")
